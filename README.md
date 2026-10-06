@@ -1,7 +1,7 @@
 # 🍰 FoodieSam Bakery - Full Stack E-Commerce Website
 
 FoodieSam Bakery is a full-stack bakery ordering web application that allows customers to browse bakery products, view product details, customize their orders, verify their email using OTP, and place orders online.
-
+ 
 The project is built using **React, Node.js, Express.js, and MongoDB** and is deployed for real-world use.
 
 ## 🌐 Live Demo
