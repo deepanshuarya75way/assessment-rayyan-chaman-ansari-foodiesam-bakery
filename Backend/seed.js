@@ -14,7 +14,7 @@ const cakes = [
   {
     name: "Banana Bread",
     price: 350,
-    discount:25,
+    discount:30,
     image: "/products/Banana Bread.jpg",
     description: "Soft and moist homemade banana bread.",
   },
