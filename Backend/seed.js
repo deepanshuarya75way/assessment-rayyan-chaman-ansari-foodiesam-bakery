@@ -14,14 +14,14 @@ const cakes = [
   {
     name: "Banana Bread",
     price: 350,
-    discount:20,
+    discount:25,
     image: "/products/Banana Bread.jpg",
     description: "Soft and moist homemade banana bread.",
   },
   {
     name: "Choco Banana Walnut Cake",
     price: 400,
-    discount:20,
+    discount:30,
     image: "/products/Choco Banana Walnut Cake.jpg",
     description: "Rich banana cake with chocolate and crunchy walnuts.",
   },
@@ -50,7 +50,7 @@ const cakes = [
   {
     name: "Football White Vintage Cake",
     price: 850,
-    discount:20,
+    discount:30,
     image: "/products/Football white vintage cake.jpg",
     description:
       "Football themed celebration cake with a beautiful white finish.",
@@ -58,7 +58,7 @@ const cakes = [
   {
     name: "Lemon Cake Loaf",
     price: 350,
-    discount:20,
+    discount:40,
     image: "/products/Lemon Cake loaf.jpg",
     description: "Fresh lemon loaf finished with a sweet lemon glaze.",
   },
@@ -79,7 +79,7 @@ const cakes = [
   {
     name: "Orange Pound Cake",
     price: 350,
-    discount:20,
+    discount:30,
     image: "/products/Orange Pound Cake.jpg",
     description: "Soft pound cake with a refreshing orange flavour.",
   },
@@ -94,7 +94,7 @@ const cakes = [
   {
     name: "Tutti Frutti Cake",
     price: 350,
-    discount:20,
+    discount:30,
     image: "/products/Tutti Frutti Cake.jpg",
     description: "Soft loaf cake filled with colourful tutti frutti.",
   },
@@ -109,7 +109,7 @@ const cakes = [
   {
     name: "Walnut & Raisin Cake",
     price: 400,
-    discount:20,
+    discount:40,
     image: "/products/Walnut n Raisin Cake.jpg",
     description: "Soft homemade cake loaded with walnuts and raisins.",
   },
@@ -124,7 +124,7 @@ const cakes = [
   {
     name: "Zeera Biscuit",
     price: 220,
-    discount:20,
+    discount:50,
     image: "/products/Zeera Biscuit.jpg",
     description: "Crispy homemade biscuits with the classic flavour of cumin.",
   },

@@ -19,6 +19,10 @@ const cakeSchema = new mongoose.Schema({
     type: String,
     default: "",
   },
+  discount:{
+      type:Number,
+      default:0,
+    },
 });
 
 const Cake = mongoose.model("Cake", cakeSchema);
