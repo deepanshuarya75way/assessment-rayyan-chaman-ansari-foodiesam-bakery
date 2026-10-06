@@ -7,30 +7,35 @@ const cakes = [
   {
     name: "Almond Cake",
     price: 350,
+    discount:20,
     image: "/products/Almond Cake.jpg",
     description: "Soft homemade almond cake topped with sliced almonds.",
   },
   {
     name: "Banana Bread",
     price: 350,
+    discount:20,
     image: "/products/Banana Bread.jpg",
     description: "Soft and moist homemade banana bread.",
   },
   {
     name: "Choco Banana Walnut Cake",
     price: 400,
+    discount:20,
     image: "/products/Choco Banana Walnut Cake.jpg",
     description: "Rich banana cake with chocolate and crunchy walnuts.",
   },
   {
     name: "Coconut Muffins",
     price: 250,
+    discount:20,
     image: "/products/Coconut muffins.jpg",
     description: "Soft coconut muffins with a light coconut topping.",
   },
   {
     name: "Eggless Vanilla Muffins",
     price: 250,
+    discount:20,
     image: "/products/Eggless Vanilla Muffins.jpg",
     description:
       "Soft eggless vanilla muffins with chocolate chips and sprinkles.",
@@ -38,12 +43,14 @@ const cakes = [
   {
     name: "Elegant White Vintage Cake",
     price: 700,
+    discount:20,
     image: "/products/Elegant white vintage cake.jpg",
     description: "Elegant white cream cake with classic vintage piping.",
   },
   {
     name: "Football White Vintage Cake",
     price: 850,
+    discount:20,
     image: "/products/Football white vintage cake.jpg",
     description:
       "Football themed celebration cake with a beautiful white finish.",
@@ -51,30 +58,35 @@ const cakes = [
   {
     name: "Lemon Cake Loaf",
     price: 350,
+    discount:20,
     image: "/products/Lemon Cake loaf.jpg",
     description: "Fresh lemon loaf finished with a sweet lemon glaze.",
   },
   {
     name: "Nankhatai",
     price: 250,
+    discount:20,
     image: "/products/Nankhatai.jpg",
     description: "Traditional buttery Nankhatai topped with dry fruits.",
   },
   {
     name: "Oats & Jaggery Cookies",
     price: 250,
+    discount:20,
     image: "/products/Oats n jaggery Cookies.jpg",
     description: "Homemade crunchy cookies made with oats and jaggery.",
   },
   {
     name: "Orange Pound Cake",
     price: 350,
+    discount:20,
     image: "/products/Orange Pound Cake.jpg",
     description: "Soft pound cake with a refreshing orange flavour.",
   },
   {
     name: "Osmania Biscuit",
     price: 220,
+    discount:20,
     image: "/products/Osmania Biscuit.jpg",
     description:
       "Classic buttery Osmania biscuits with a lightly sweet flavour.",
@@ -82,12 +94,14 @@ const cakes = [
   {
     name: "Tutti Frutti Cake",
     price: 350,
+    discount:20,
     image: "/products/Tutti Frutti Cake.jpg",
     description: "Soft loaf cake filled with colourful tutti frutti.",
   },
   {
     name: "Vintage Piping Cake",
     price: 750,
+    discount:20,
     image: "/products/Vintage Piping Cake.jpg",
     description:
       "Beautiful celebration cake decorated with vintage floral piping.",
@@ -95,12 +109,14 @@ const cakes = [
   {
     name: "Walnut & Raisin Cake",
     price: 400,
+    discount:20,
     image: "/products/Walnut n Raisin Cake.jpg",
     description: "Soft homemade cake loaded with walnuts and raisins.",
   },
   {
     name: "White & Gold Vintage Cake",
     price: 800,
+    discount:20,
     image: "/products/white and gold vintage cake.jpg",
     description:
       "Premium white cream cake decorated with nuts and elegant gold details.",
@@ -108,6 +124,7 @@ const cakes = [
   {
     name: "Zeera Biscuit",
     price: 220,
+    discount:20,
     image: "/products/Zeera Biscuit.jpg",
     description: "Crispy homemade biscuits with the classic flavour of cumin.",
   },

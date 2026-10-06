@@ -1,1 +1,20 @@
-{}
+{
+  "name": "assessment-rayyan-chaman-ansari-foodiesam-bakery",
+  "version": "1.0.0",
+  "description": "FoodieSam Bakery is a full-stack bakery ordering web application that allows customers to browse bakery products, view product details, customize their orders, verify their email using OTP, and place orders online.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepanshuarya75way/assessment-rayyan-chaman-ansari-foodiesam-bakery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepanshuarya75way/assessment-rayyan-chaman-ansari-foodiesam-bakery/issues"
+  },
+  "homepage": "https://github.com/deepanshuarya75way/assessment-rayyan-chaman-ansari-foodiesam-bakery#readme"
+}

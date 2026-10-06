@@ -1,5 +1,9 @@
 import { Link } from "react-router-dom";
 function ProductCard({ product }) {
+
+  const finalPrice=product.discount
+  ?product.price -(product.price * product.discount)/100:product.price;
+  
   return (
     <div className="overflow-hidden rounded-2xl bg-white shadow-md transition hover:-translate-y-2">
       {/* Product Image */}
@@ -18,7 +22,7 @@ function ProductCard({ product }) {
 
         <div className="mt-4 flex items-center justify-between">
           <span className="text-xl font-bold text-pink-600">
-            ₹{product.price}
+            ₹{finalPrice}
           </span>
 
           <Link
